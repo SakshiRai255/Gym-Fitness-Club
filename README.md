@@ -1,4 +1,4 @@
-#### This is a Gym Fitness Club Project 
+#### This is a Gym Fitness Club Project its is only static page 
 
 ### Stack Used:-
 
